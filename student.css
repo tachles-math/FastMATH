@@ -1,0 +1,4 @@
+/* Hide admin controls on the student website */
+#admin, .admin-panel, .admin-section {
+  display: none !important;
+}
